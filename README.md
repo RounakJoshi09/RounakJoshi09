@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [templify](https://github.com/cophilot/templify)
 
-- 💬 Ask me about **React, NodeJS, ORM's, Typescript, Flutter, Rust**
+- 💬 Ask me about **.NET, React, NodeJS, ORM's, Typescript, Flutter, Rust**
 
 - 📫 How to reach me **rounakjsh783@gmail.com**
 
