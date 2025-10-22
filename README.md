@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust, .NET**
 
-- 👯 I’m looking to collaborate on [templify](https://github.com/cophilot/templify)
+- 👯 I’m looking to collaborate on [Twenty](https://github.com/twentyhq/twenty)
 
 - 💬 Ask me about **.NET, React, NodeJS, ORM's, Typescript, Flutter, Rust**
 
